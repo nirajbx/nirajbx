@@ -1,5 +1,5 @@
-Hello I'm Niraj Bambharoliya
-
+Hello I'm Niraj Bambharoliya 👋
+ 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Python Programming.
 - 🤔 I’m looking for help with ...
