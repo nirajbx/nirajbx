@@ -13,10 +13,10 @@
 <a href="https://twitter.com/nirajbx" target="_blank"><img align="left" alt="Nirajbx | Twitter" width="22px" src="https://img.icons8.com/ios-glyphs/344/twitter--v1.png" />
 
 
-<a href="https://github.com/nirajbx" target="_blank"><img align="left" alt="Nirajbx | GitHub" width="22px" src="https://github.com/nirajbx/Font-Awesome/blob/6.x/svgs/brands/github.svg" />
+<a href="https://github.com/nirajbx" target="_blank"><img align="left" alt="Nirajbx | GitHub" width="22px" src="https://img.icons8.com/ios-glyphs/344/github.png" />
 
 
-<a href="https://www.codechef.com/users/nirajbx" target="_blank"><img align="left" alt="Nirajbx | CodeChef" width="22px" src="https://img.icons8.com/ios-glyphs/344/github.png" />
+<a href="https://www.codechef.com/users/nirajbx" target="_blank"><img align="left" alt="Nirajbx | CodeChef" width="22px" src="https://img.icons8.com/ios-filled/344/codechef.png" />
 
 <a href="https://www.codechef.com/users/nirajbx" target="_blank"><img align="left" alt="Nirajbx | CodeChef" width="22px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" />
 <br />
