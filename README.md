@@ -1,5 +1,3 @@
-<a href="https://imgur.com/dFokV5u"><img src="https://i.imgur.com/dFokV5u.jpg" title="source: imgur.com" /></a>
-
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Niraj</h1>
 <h3 align="center">      .</h3>
 
