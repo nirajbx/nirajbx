@@ -2,13 +2,12 @@
 ## Hello, I'm <a href="https://aakarsh.me" target="_blank">Niraj</a>!
 (Use dark theme to find my socials ;)
 
-<a href="https://www.linkedin.com/in/nirajbambharoliya" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-<a href="https://behance.net/aakarshb" target="_blank"><img align="left" alt="Aakarsh B | Behance" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/behance.svg" />
-<a href="https://instagram.com/_.aakarsh._" target="_blank"><img align="left" alt="Aakarsh B | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-<a href="https://twitter.com/Aakarsh-Bhttps://www.w3.org/html/" target="_blank"><img align="left" alt="Aakarsh B | Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
-  <img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
-<br />
-
+<a href="https://www.linkedin.com/in/nirajbambharoliya" target="_blank"><img align="left" alt="Nirajbx | LinkedIn" width="22px" src="https://github.com/nirajbx/Font-Awesome/blob/6.x/svgs/brands/linkedin.svg" />
+<a href="https://behance.net/aakarshb" target="_blank"><img align="left" alt="Nirajbx | Behance" width="22px" src="https://github.com/nirajbx/Font-Awesome/blob/6.x/svgs/brands/behance.svg" />
+<a href="https://instagram.com/_.aakarsh._" target="_blank"><img align="left" alt="Nirajbx | Instagram" width="22px" src="https://github.com/nirajbx/simple-icons/blob/develop/icons/instagram.svg" />
+<a href="https://twitter.com/Aakarsh-Bhttps://www.w3.org/html/" target="_blank"><img align="left" alt="Nirajbx | Twitter" width="22px" src="https://github.com/nirajbx/Font-Awesome/blob/6.x/svgs/brands/square-twitter.svg" />
+<a href="https://twitter.com/Aakarsh-Bhttps://www.w3.org/html/" target="_blank"><img align="left" alt="Nirajbx | GitHub" width="22px" src="https://github.com/nirajbx/simple-icons/blob/develop/icons/github.svg" />
+<a href="https://twitter.com/Aakarsh-Bhttps://www.w3.org/html/" target="_blank"><img align="left" alt="Nirajbx | CodeChef" width="22px" src="https://github.com/nirajbx/simple-icons/blob/develop/icons/codechef.svg" />
 <br />
 
 
