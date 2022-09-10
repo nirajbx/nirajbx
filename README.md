@@ -1,6 +1,9 @@
 
 ## Hello,👋 I'm Niraj!
 
+
+### Follow Me👇🏻
+
 <a href="https://www.linkedin.com/in/nirajbambharoliya" target="_blank"><img align="left" alt="Nirajbx | LinkedIn" width="30px" src="https://img.icons8.com/ios-filled/344/linkedin.png" />
 
 
