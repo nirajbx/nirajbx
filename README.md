@@ -12,19 +12,7 @@
 <a href="https://dev.to/aakarshb" target="_blank"><img align="left" alt="dev to aakarsh" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>
 
 <br />
-<br />
-<br />
 
-### 📕 Latest Blog Post
-
-<!-- BLOG-POST-LIST:START -->
-- [A dot cost me 6,000 rupees!](https://aakarshbiju.medium.com/a-dot-cost-me-6-000-rupees-3f519595f86f?source=rss-f82fcec8502a------2)
-- [I created 3D art daily for 50 days!](https://medium.com/creativcuckoo/i-created-3d-art-daily-for-50-days-bbea3ec4a01f?source=rss-f82fcec8502a------2)
-- [Top free fonts for headings!](https://medium.com/creativcuckoo/top-free-fonts-for-headings-40afb244181?source=rss-f82fcec8502a------2)
-- [Buttons — Rounded Corners or Sharp?](https://medium.com/creativcuckoo/buttons-rounded-corners-or-sharp-29109966a63c?source=rss-f82fcec8502a------2)
-<!-- BLOG-POST-LIST:END -->
-
-<br/>
 
 ### Languages and Tools:
 
@@ -46,18 +34,3 @@
 <a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/> </a>
 <a href="https://www.blender.org" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/blender.png?raw=true"/> </a>
 
-
-<br />
-<br />
-
----
-
-
-
-### Now Playing 🎧
-
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
-<br/>
----
-
-[![Aakarsh's github stats](https://github-readme-stats.vercel.app/api?username=Aakarsh-B&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
