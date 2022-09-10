@@ -1,22 +1,24 @@
 
 ## Hello, I'm <a href="https://aakarsh.me" target="_blank">Niraj</a>!
 
-<a href="https://www.linkedin.com/in/nirajbambharoliya" target="_blank"><img align="left" alt="Nirajbx | LinkedIn" width="20px" src="https://github.com/nirajbx/Font-Awesome/blob/6.x/svgs/brands/linkedin-in.svg" />
+<a href="https://www.linkedin.com/in/nirajbambharoliya" target="_blank"><img align="left" alt="Nirajbx | LinkedIn" width="20px" src="https://img.icons8.com/ios-glyphs/344/linkedin-circled--v1.png" />
 
 
-<a href="https://www.behance.net/nirajbx"  target="_blank"><img align="left" alt="Nirajbx | Behance" width="24px" src="https://github.com/nirajbx/Font-Awesome/blob/6.x/svgs/brands/behance.svg" />
+<a href="https://www.behance.net/nirajbx"  target="_blank"><img align="left" alt="Nirajbx | Behance" width="24px" src="https://img.icons8.com/ios-glyphs/344/behance.png" />
 
 
-<a href="https://www.instagram.com/nirajbx/" target="_blank"><img align="left" alt="Nirajbx | Instagram" width="22px" src="https://github.com/nirajbx/Font-Awesome/blob/6.x/svgs/brands/instagram.svg" />
+<a href="https://www.instagram.com/nirajbx/" target="_blank"><img align="left" alt="Nirajbx | Instagram" width="22px" src="https://img.icons8.com/ios-glyphs/344/instagram-new.png" />
 
 
-<a href="https://twitter.com/nirajbx" target="_blank"><img align="left" alt="Nirajbx | Twitter" width="22px" src="https://github.com/nirajbx/Font-Awesome/blob/6.x/svgs/brands/twitter.svg" />
+<a href="https://twitter.com/nirajbx" target="_blank"><img align="left" alt="Nirajbx | Twitter" width="22px" src="https://img.icons8.com/ios-glyphs/344/twitter--v1.png" />
 
 
 <a href="https://github.com/nirajbx" target="_blank"><img align="left" alt="Nirajbx | GitHub" width="22px" src="https://github.com/nirajbx/Font-Awesome/blob/6.x/svgs/brands/github.svg" />
 
 
-<a href="https://www.codechef.com/users/nirajbx" target="_blank"><img align="left" alt="Nirajbx | CodeChef" width="22px" src="https://github.com/nirajbx/simple-icons/blob/develop/icons/codechef.svg" />
+<a href="https://www.codechef.com/users/nirajbx" target="_blank"><img align="left" alt="Nirajbx | CodeChef" width="22px" src="https://img.icons8.com/ios-glyphs/344/github.png" />
+
+<a href="https://www.codechef.com/users/nirajbx" target="_blank"><img align="left" alt="Nirajbx | CodeChef" width="22px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" />
 <br />
 
 
