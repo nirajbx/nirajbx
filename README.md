@@ -1,5 +1,5 @@
 
-## Hello, I'm <a href="" target="_blank">Niraj</a>!
+## Hello,👋 I'm Niraj!
 
 <a href="https://www.linkedin.com/in/nirajbambharoliya" target="_blank"><img align="left" alt="Nirajbx | LinkedIn" width="30px" src="https://img.icons8.com/ios-filled/344/linkedin.png" />
 
