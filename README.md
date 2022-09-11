@@ -5,7 +5,7 @@
 ### Follow Me👇🏻
 
 <a href="https://www.linkedin.com/in/nirajbambharoliya">
-<img align="left" alt="Nirajbx LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="Nirajbx LinkedIn" width="27px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
 
 <a href="https://www.behance.net/nirajbx">
@@ -32,14 +32,12 @@
 <br>
 <br>
 
-- 🔭 I’m currently working on [Frontier](https://frontier.xyz/).
-- 🌱 I’m currently learning Golang, Rust.
-- 👯 I’m looking to collaborate on [Frontier](https://frontier.xyz/).
-- 🤔 I’m looking for help with Unifront documentation.
-- 💬 Ask me about Flutter or any tech related stuff.
-- 📫 How to reach me: [Twitter - @ravidsrk](https://twitter.com/ravidsrk)
+- 🔭 I’m currently working on Mini Projects.
+- 🌱 I’m currently learning DSA, Nodejs.
+- 👯 I’m looking to collaborate on Open Source Projects.
+- 💬 Ask me about AIML or any tech related stuff.
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours listening to songs everyday.
+- ⚡ Fun fact: I Like to Explore Things more.
 
 
 ### Languages and Tools:
