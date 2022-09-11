@@ -5,32 +5,34 @@
 ### Follow Me👇🏻
 
 <a href="https://www.linkedin.com/in/nirajbambharoliya">
-<img align="left" alt="Nirajbx LinkedIn" width="27px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="Nirajbx LinkedIn" width="27px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
 
 <a href="https://www.behance.net/nirajbx">
-<img align="left" alt="Nirajbx Behance" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/behance.svg" />
+<img align="left" alt="Nirajbx Behance" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/behance.svg" /></a>
 
 
 <a href="https://www.instagram.com/nirajbx/">
-<img align="left" alt="Nirajbx Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />
+<img align="left" alt="Nirajbx Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" /></a>
 
 
 <a href="https://twitter.com/nirajbx">
-<img align="left" alt="Nirajbx Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
+<img align="left" alt="Nirajbx Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" /></a>
 
 
 <a href="https://github.com/nirajbx">
-<img align="left" alt="Nirajbx GitHub" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
+<img align="left" alt="Nirajbx GitHub" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" /></a>
 
 
 <a href="https://www.codechef.com/users/nirajbx">
-<img align="left" alt="Nirajbx CodeChef" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codechef.svg" />
+<img align="left" alt="Nirajbx CodeChef" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codechef.svg" /></a>
 
 <a href="https://leetcode.com/nirajbx/">
-<img align="left" alt="Nirajbx LeetCode" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg" />
+<img align="left" alt="Nirajbx LeetCode" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg" /></a>
 <br>
 <br>
+ 
+ <div>
 
 - 🔭 I’m currently working on Mini Projects.
 - 🌱 I’m currently learning DSA, Nodejs.
@@ -38,6 +40,7 @@
 - 💬 Ask me about AIML or any tech related stuff.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I Like to Explore Things more.
+ </div>
 
 
 ### Languages and Tools:
