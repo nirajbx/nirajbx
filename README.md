@@ -23,10 +23,6 @@
 <a href="https://github.com/nirajbx">
 <img align="left" alt="Nirajbx GitHub" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" /></a>
 
-
-<a href="https://www.codechef.com/users/nirajbx">
-<img align="left" alt="Nirajbx CodeChef" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codechef.svg" /></a>
-
 <a href="https://leetcode.com/nirajbx/">
 <img align="left" alt="Nirajbx LeetCode" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg" /></a>
 <br>
