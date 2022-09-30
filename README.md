@@ -27,7 +27,7 @@
  <div>
 
 - 🔭 I’m currently working on Mini Projects.
-- 🌱 I’m currently learning DSA, Nodejs.
+- 🌱 I’m currently learning DSA.
 - 👯 I’m looking to collaborate on Open Source Projects.
 - 💬 Ask me about AIML or any tech related stuff.
 - 😄 Pronouns: He/His
