@@ -46,7 +46,7 @@
 
 <a href="https://nodejs.org/en/" target="_blank"> <img align="left" alt="C" width="40px" src="https://img.icons8.com/fluency/344/node-js.png"/> </a>
 
-<a href="https://www.mongodb.com/" target="_blank"> <img align="left" alt="git" width="40px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png"/></a>
+<!-- <a href="https://www.mongodb.com/" target="_blank"> <img align="left" alt="git" width="40px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png"/></a> -->
  
  <a href="https://www.python.org/" target="_blank"> <img align="left" alt="Python" width="40px" src="https://img.icons8.com/color/344/python--v1.png"/> </a>
  <br>
